@@ -24,7 +24,7 @@ function HomePage() {
       <h1>Route Finder</h1>
       <form onSubmit={handleSubmit}>
         <div className="search-box">
-          <label>Starting Point:</label>
+          <label>Startingg Point:</label>
           <input
             type="text"
             value={startPoint}
