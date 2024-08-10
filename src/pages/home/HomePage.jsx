@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../index.css';
+import './homepage.css';
 
 function HomePage() {
   const [startPoint, setStartPoint] = useState('');

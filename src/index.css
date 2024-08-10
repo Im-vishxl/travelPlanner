@@ -27,31 +27,4 @@
   text-decoration: underline;
 }
 
-.homepage {
-  text-align: center;
-  padding: 2rem;
-}
-
-.search-box {
-  margin-bottom: 1rem;
-}
-
-.search-box label {
-  display: block;
-  margin-bottom: 0.5rem;
-  font-weight: bold;
-}
-
-.search-box input {
-  padding: 0.5rem;
-  width: 100%;
-  max-width: 400px;
-  font-size: 1rem;
-}
-
-button {
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
-  cursor: pointer;
-}
 
