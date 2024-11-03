@@ -1,7 +1,7 @@
 # Travel Route Planner
 This Travel Route Planner is a web application that helps users create an efficient travel plan from a starting location to a destination by selecting the most enjoyable and budget-friendly routes. Using popular landmarks and points of interest, the app ensures users have a great experience while keeping within their budget.
 
-#Features
+# Features
 * Dynamic Routing: Allows users to input starting and ending points and provides a route displaying popular and scenic stops along the way.
 * Budget Management: Helps users plan trips that fit within their budget, offering suggestions for cost-effective options.
 * Interactive Map: Displays routes on a map with a real-time view of stops, popular landmarks, and other points of interest.
